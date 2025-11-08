@@ -1,5 +1,5 @@
 <!-- Banner ou saudação -->
-<h1 align="center">👋 Olá, eu sou o Rafael Diniz</h1>
+<h1 align="center">👋 Olá, eu sou o Rafael D'Angelis</h1>
 <h3 align="center">Desenvolvedor Fullstack & UI Designer</h3>
 
 <p align="center">
@@ -55,7 +55,8 @@
 ---
 
 ### 📬 Vamos conversar?
-📧 **Email:** rafaeldiniz.dev@email.com  
+📸 **Instagram:** [instagram.com/r.v.ff](#)
+📧 **Email:** rr.tecfuture@gmail.com  
 🌐 **Portfólio:** [rafaeldiniz.dev](#)  
 💼 **LinkedIn:** [linkedin.com/in/rafaeldiniz](#)
 

@@ -55,9 +55,9 @@
 ---
 
 ### 📬 Vamos conversar?
-📸 **Instagram:** [instagram.com/r.v.ff](#)
-📧 **Email:** [mailto:rr.tecfuture@gmail.com](#)
-🌐 **Portfólio:** [rafaeldiniz.dev](#)  
+📸 **Instagram:** [instagram.com/r.v.ff](#) <br>
+📧 **Email:** [rr.tecfuture@gmail.com](#) <br>
+🌐 **Portfólio:** [rafaeldiniz.dev](#) <br>
 💼 **LinkedIn:** [linkedin.com/in/rvff](#)
 
 ---

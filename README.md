@@ -55,10 +55,10 @@
 ---
 
 ### 📬 Vamos conversar?
-📸 **Instagram:** [instagram.com/r.v.ff] (#)
-📧 **Email:** rr.tecfuture@gmail.com (#)
+📸 **Instagram:** [instagram.com/r.v.ff](#)
+📧 **Email:** [mailto:rr.tecfuture@gmail.com](#)
 🌐 **Portfólio:** [rafaeldiniz.dev](#)  
-💼 **LinkedIn:** [linkedin.com/in/rafaeldiniz](#)
+💼 **LinkedIn:** [linkedin.com/in/rvff](#)
 
 ---
 
